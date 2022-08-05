@@ -135,4 +135,4 @@ var mobile = {
     charger: 'yes'
 };
 mobile.price = 2500;
-console.log(mobile);
+// console.log(mobile);
